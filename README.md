@@ -1,7 +1,8 @@
 # spring security
-spring security 6版本的自定义权限拦截的初次尝试:
+spring security 6 版本的自定义权限拦截的初次尝试:
 
 ### 注意点
+* jdk 17
 * springboot 版本 3.01
 * 数据库初始化脚本再resource下，自己根据需要初始化
 
